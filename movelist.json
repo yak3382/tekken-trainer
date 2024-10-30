@@ -1,0 +1,3389 @@
+{
+    "Alisa": [
+        {
+            "ID": "1",
+            "Move": "Heat System 1",
+            "Selectable": "No"
+        },
+        {
+            "ID": "2",
+            "Move": "Heat System 2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "3",
+            "Move": "Heat System 3",
+            "Selectable": "No"
+        },
+        {
+            "ID": "4",
+            "Move": "Heat System 4",
+            "Selectable": "No"
+        },
+        {
+            "ID": "5",
+            "Move": "Heat System 5",
+            "Selectable": "No"
+        },
+        {
+            "ID": "6",
+            "Move": "Heat System 6",
+            "Selectable": "No"
+        },
+        {
+            "ID": "7",
+            "Move": "2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "8",
+            "Move": "3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "9",
+            "Move": "1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "10",
+            "Move": "f+2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "11",
+            "Move": "uf+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "12",
+            "Move": "DES.f+2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "13",
+            "Move": "H.f+1+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "14",
+            "Move": "H.d+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "15",
+            "Move": "H.2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "16",
+            "Move": "R.df+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "17",
+            "Move": "1, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "18",
+            "Move": "1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "19",
+            "Move": "1, 2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "20",
+            "Move": "1, 2, d+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "21",
+            "Move": "2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "22",
+            "Move": "2, 3, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "23",
+            "Move": "2, 3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "24",
+            "Move": "3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "25",
+            "Move": "3, f+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "26",
+            "Move": "4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "27",
+            "Move": "1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "76",
+            "Move": "1+2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "77",
+            "Move": "1+2+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "28",
+            "Move": "f+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "29",
+            "Move": "f+2, 3, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "30",
+            "Move": "f+3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "31",
+            "Move": "f+3, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "32",
+            "Move": "f+4, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "33",
+            "Move": "f+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "34",
+            "Move": "f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "35",
+            "Move": "df+1, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "36",
+            "Move": "df+1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "37",
+            "Move": "df+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "38",
+            "Move": "df+3, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "39",
+            "Move": "d+2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "40",
+            "Move": "d+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "41",
+            "Move": "d+4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "42",
+            "Move": "d+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "43",
+            "Move": "d+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "44",
+            "Move": "db+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "45",
+            "Move": "db+2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "46",
+            "Move": "db+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "47",
+            "Move": "db+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "48",
+            "Move": "b+1, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "49",
+            "Move": "b+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "50",
+            "Move": "b+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "51",
+            "Move": "b+2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "52",
+            "Move": "b+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "53",
+            "Move": "b+4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "54",
+            "Move": "b+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "55",
+            "Move": "b+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "56",
+            "Move": "b+3+4, 3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "57",
+            "Move": "b+2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "58",
+            "Move": "ub+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "75",
+            "Move": "ub+4, 1, 1, 2, 1, 1, 3+4, 3, 2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "59",
+            "Move": "ub+3+4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "60",
+            "Move": "u+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "61",
+            "Move": "uf+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "62",
+            "Move": "uf+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "63",
+            "Move": "uf+3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "64",
+            "Move": "uf+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "65",
+            "Move": "uf+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "78",
+            "Move": "1+2+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "71",
+            "Move": "b, B+1+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "66",
+            "Move": "f, F+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "67",
+            "Move": "f, F+3, 4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "68",
+            "Move": "f, F+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "69",
+            "Move": "f, F+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "70",
+            "Move": "CH.f, F+1+2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "72",
+            "Move": "f, f, F+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "73",
+            "Move": "f, f, F+3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "74",
+            "Move": "f, f, F+1+2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "79",
+            "Move": "ws1, 2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "80",
+            "Move": "ws2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "81",
+            "Move": "ws3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "84",
+            "Move": "ws4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "85",
+            "Move": "ws1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "87",
+            "Move": "SS.4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "86",
+            "Move": "FC.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "88",
+            "Move": "BT.4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "91",
+            "Move": "d+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "127",
+            "Move": "db+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "128",
+            "Move": "BKP.1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "129",
+            "Move": "BKP.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "130",
+            "Move": "BKP.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "131",
+            "Move": "BKP.4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "132",
+            "Move": "BKP.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "82",
+            "Move": "CLK.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "83",
+            "Move": "CLK.d+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "119",
+            "Move": "f+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "120",
+            "Move": "DBT.1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "121",
+            "Move": "DBT.2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "122",
+            "Move": "DBT.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "123",
+            "Move": "DBT.4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "124",
+            "Move": "DBT.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "125",
+            "Move": "DBT.f+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "126",
+            "Move": "DBT.f+2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "92",
+            "Move": "DES.1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "93",
+            "Move": "DES.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "94",
+            "Move": "DES.2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "105",
+            "Move": "DES.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "95",
+            "Move": "DES.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "104",
+            "Move": "DES.BT.1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "111",
+            "Move": "DES.b, b",
+            "Selectable": "*"
+        },
+        {
+            "ID": "101",
+            "Move": "DES.b+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "109",
+            "Move": "DES.b+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "99",
+            "Move": "DES.d+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "100",
+            "Move": "DES.d+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "107",
+            "Move": "DES.d+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "108",
+            "Move": "DES.d+3, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "110",
+            "Move": "DES.f, f",
+            "Selectable": "*"
+        },
+        {
+            "ID": "96",
+            "Move": "DES.f+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "97",
+            "Move": "DES.f+2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "106",
+            "Move": "DES.f+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "98",
+            "Move": "DES.f+1+2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "102",
+            "Move": "DES.uf+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "103",
+            "Move": "DES.uf+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "89",
+            "Move": "FUFT.1+2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "90",
+            "Move": "FUFT.1+2, 3",
+            "Selectable": "No"
+        },
+        {
+            "ID": "142",
+            "Move": "OTG.db+1+2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "112",
+            "Move": "f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "114",
+            "Move": "SBT.1, 2, 1, 3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "115",
+            "Move": "SBT.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "116",
+            "Move": "SBT.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "117",
+            "Move": "SBT.4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "118",
+            "Move": "SBT.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "113",
+            "Move": "SBT.D",
+            "Selectable": "*"
+        },
+        {
+            "ID": "133",
+            "Move": "1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "134",
+            "Move": "2+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "137",
+            "Move": "Back throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "139",
+            "Move": "FC.db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "135",
+            "Move": "Left throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "136",
+            "Move": "Right throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "138",
+            "Move": "uf+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "140",
+            "Move": "b+2+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "141",
+            "Move": "Low parry",
+            "Selectable": "*"
+        }
+    ],
+    "Asuka": [
+        {
+            "ID": "1",
+            "Move": "Heat System 1",
+            "Selectable": "No"
+        },
+        {
+            "ID": "2",
+            "Move": "Heat System 2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "3",
+            "Move": "Heat System 3",
+            "Selectable": "No"
+        },
+        {
+            "ID": "4",
+            "Move": "Heat System 4",
+            "Selectable": "No"
+        },
+        {
+            "ID": "5",
+            "Move": "2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "11",
+            "Move": "H.2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "12",
+            "Move": "R.df+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "6",
+            "Move": "f+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "7",
+            "Move": "d+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "8",
+            "Move": "db+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "9",
+            "Move": "SS.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "10",
+            "Move": "f+1+3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "13",
+            "Move": "1, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "14",
+            "Move": "1, 2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "15",
+            "Move": "1, 2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "16",
+            "Move": "1, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "17",
+            "Move": "2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "18",
+            "Move": "2, 1, d+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "19",
+            "Move": "2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "20",
+            "Move": "3, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "21",
+            "Move": "1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "23",
+            "Move": "1+4, 2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "24",
+            "Move": "1+4, 2, d+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "25",
+            "Move": "1+4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "22",
+            "Move": "3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "26",
+            "Move": "f+1, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "27",
+            "Move": "f+1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "28",
+            "Move": "f+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "29",
+            "Move": "f+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "30",
+            "Move": "f+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "31",
+            "Move": "f+3*",
+            "Selectable": "*"
+        },
+        {
+            "ID": "32",
+            "Move": "f+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "33",
+            "Move": "f+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "35",
+            "Move": "f+2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "34",
+            "Move": "f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "36",
+            "Move": "df+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "37",
+            "Move": "df+1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "38",
+            "Move": "df+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "39",
+            "Move": "df+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "40",
+            "Move": "df+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "41",
+            "Move": "d+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "42",
+            "Move": "d+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "43",
+            "Move": "d+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "44",
+            "Move": "db+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "45",
+            "Move": "db+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "46",
+            "Move": "db+1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "47",
+            "Move": "db+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "48",
+            "Move": "db+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "50",
+            "Move": "db+4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "49",
+            "Move": "db+4, 4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "51",
+            "Move": "db+4, 1+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "52",
+            "Move": "db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "53",
+            "Move": "b+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "54",
+            "Move": "CH.b+1",
+            "Selectable": "No"
+        },
+        {
+            "ID": "108",
+            "Move": "b+1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "55",
+            "Move": "b+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "56",
+            "Move": "b+2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "57",
+            "Move": "b+2, 1+2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "58",
+            "Move": "b+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "59",
+            "Move": "b+3, 2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "60",
+            "Move": "b+3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "61",
+            "Move": "b+4, 2, 3, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "62",
+            "Move": "b+1+4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "63",
+            "Move": "b+1+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "64",
+            "Move": "b+2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "65",
+            "Move": "u+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "66",
+            "Move": "uf+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "67",
+            "Move": "uf+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "68",
+            "Move": "uf+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "78",
+            "Move": "1+2+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "79",
+            "Move": "1+2+3+4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "69",
+            "Move": "f, F+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "70",
+            "Move": "f, F+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "71",
+            "Move": "f, F+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "72",
+            "Move": "f, F+2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "73",
+            "Move": "f, F+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "74",
+            "Move": "f, F+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "75",
+            "Move": "f, F+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "76",
+            "Move": "f, f, F+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "77",
+            "Move": "f, f, F+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "84",
+            "Move": "ws1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "92",
+            "Move": "ws2, 1, 1, 1, 2, 1, 4, 3, 3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "93",
+            "Move": "ws2, 1, 1, 1, 2, 1+4, 1, 3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "94",
+            "Move": "ws2, 1, 1, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "85",
+            "Move": "ws2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "86",
+            "Move": "ws3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "87",
+            "Move": "ws4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "88",
+            "Move": "ws1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "95",
+            "Move": "SS.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "96",
+            "Move": "SS.4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "89",
+            "Move": "FC.3+4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "90",
+            "Move": "FC.df+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "91",
+            "Move": "FC.df+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "103",
+            "Move": "DST.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "104",
+            "Move": "DST.4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "82",
+            "Move": "NWG.f, F+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "83",
+            "Move": "NWG.f, f, F+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "81",
+            "Move": "NWG.u+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "80",
+            "Move": "Tackle.2, 1, 2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "97",
+            "Move": "1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "98",
+            "Move": "2+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "101",
+            "Move": "Back throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "107",
+            "Move": "FC.db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "99",
+            "Move": "Left throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "100",
+            "Move": "Right throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "105",
+            "Move": "df+2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "102",
+            "Move": "f+1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "106",
+            "Move": "uf+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "109",
+            "Move": "Low parry",
+            "Selectable": "*"
+        }
+    ],
+    "Azucena": [
+        {
+            "ID": "1",
+            "Move": "Heat System 1",
+            "Selectable": "No"
+        },
+        {
+            "ID": "2",
+            "Move": "Heat System 2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "3",
+            "Move": "Heat System 3",
+            "Selectable": "No"
+        },
+        {
+            "ID": "4",
+            "Move": "Heat System 4",
+            "Selectable": "No"
+        },
+        {
+            "ID": "5",
+            "Move": "Heat System 5",
+            "Selectable": "No"
+        },
+        {
+            "ID": "6",
+            "Move": "Heat System 6",
+            "Selectable": "No"
+        },
+        {
+            "ID": "7",
+            "Move": "2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "8",
+            "Move": "f+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "9",
+            "Move": "f+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "10",
+            "Move": "b+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "11",
+            "Move": "LIB.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "12",
+            "Move": "d+1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "16",
+            "Move": "H.LIB.1, 2, F",
+            "Selectable": "*"
+        },
+        {
+            "ID": "18",
+            "Move": "H.LIB.P (High)",
+            "Selectable": "*"
+        },
+        {
+            "ID": "19",
+            "Move": "H.LIB.P (Low)",
+            "Selectable": "*"
+        },
+        {
+            "ID": "17",
+            "Move": "H.LIB.d+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "14",
+            "Move": "H.b+1, 1, 2, F",
+            "Selectable": "*"
+        },
+        {
+            "ID": "15",
+            "Move": "H.b+2, F",
+            "Selectable": "*"
+        },
+        {
+            "ID": "13",
+            "Move": "H.f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "20",
+            "Move": "H.2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "21",
+            "Move": "R.df+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "22",
+            "Move": "1, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "23",
+            "Move": "1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "65",
+            "Move": "1+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "66",
+            "Move": "1+3+4*",
+            "Selectable": "*"
+        },
+        {
+            "ID": "24",
+            "Move": "2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "25",
+            "Move": "3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "26",
+            "Move": "3, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "27",
+            "Move": "4, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "28",
+            "Move": "4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "29",
+            "Move": "1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "67",
+            "Move": "2+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "30",
+            "Move": "f+2, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "31",
+            "Move": "f+3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "32",
+            "Move": "f+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "33",
+            "Move": "f+4, 4~2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "34",
+            "Move": "f+4, 4~3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "35",
+            "Move": "f+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "36",
+            "Move": "f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "37",
+            "Move": "df+1, 4, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "38",
+            "Move": "df+1, 4, 1~2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "39",
+            "Move": "df+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "40",
+            "Move": "df+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "41",
+            "Move": "df+4, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "42",
+            "Move": "d+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "43",
+            "Move": "d+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "44",
+            "Move": "d+3, 3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "45",
+            "Move": "d+4, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "46",
+            "Move": "d+4, 1~2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "112",
+            "Move": "d+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "47",
+            "Move": "db+3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "48",
+            "Move": "db+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "49",
+            "Move": "db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "50",
+            "Move": "db+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "51",
+            "Move": "b+1, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "52",
+            "Move": "b+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "53",
+            "Move": "b+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "54",
+            "Move": "b+4, 3, 4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "55",
+            "Move": "b+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "56",
+            "Move": "uf+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "57",
+            "Move": "uf+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "58",
+            "Move": "uf+3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "59",
+            "Move": "uf+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "68",
+            "Move": "1+2+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "69",
+            "Move": "1+2+3+4, 3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "72",
+            "Move": "UB, b",
+            "Selectable": "*"
+        },
+        {
+            "ID": "60",
+            "Move": "f, F+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "61",
+            "Move": "f, F+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "62",
+            "Move": "f, F+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "63",
+            "Move": "f, f, F+3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "64",
+            "Move": "4, 1, 4, 1, 2, 3, 3, 1, 3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "70",
+            "Move": "f+3+4*",
+            "Selectable": "*"
+        },
+        {
+            "ID": "71",
+            "Move": "b+3+4*",
+            "Selectable": "*"
+        },
+        {
+            "ID": "73",
+            "Move": "ws1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "74",
+            "Move": "ws2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "75",
+            "Move": "ws3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "76",
+            "Move": "ws4, 1, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "77",
+            "Move": "ws+f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "78",
+            "Move": "ws+b+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "79",
+            "Move": "FC.df+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "80",
+            "Move": "BT.1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "81",
+            "Move": "BT.1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "82",
+            "Move": "BT.2:2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "83",
+            "Move": "BT.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "84",
+            "Move": "BT.4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "85",
+            "Move": "BT.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "86",
+            "Move": "BT.3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "88",
+            "Move": "BT.b+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "89",
+            "Move": "BT.b+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "90",
+            "Move": "BT.b+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "87",
+            "Move": "BT.f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "91",
+            "Move": "f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "92",
+            "Move": "LIB.1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "93",
+            "Move": "LIB.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "94",
+            "Move": "LIB.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "95",
+            "Move": "LIB.3, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "96",
+            "Move": "LIB.4, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "97",
+            "Move": "LIB.4, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "98",
+            "Move": "LIB.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "99",
+            "Move": "LIB.3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "105",
+            "Move": "LIB.B",
+            "Selectable": "*"
+        },
+        {
+            "ID": "103",
+            "Move": "LIB.F",
+            "Selectable": "*"
+        },
+        {
+            "ID": "104",
+            "Move": "LIB.U",
+            "Selectable": "*"
+        },
+        {
+            "ID": "102",
+            "Move": "LIB.b, b",
+            "Selectable": "*"
+        },
+        {
+            "ID": "100",
+            "Move": "LIB.d+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "101",
+            "Move": "LIB.f, f",
+            "Selectable": "*"
+        },
+        {
+            "ID": "106",
+            "Move": "1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "107",
+            "Move": "2+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "110",
+            "Move": "Back throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "113",
+            "Move": "FC.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "108",
+            "Move": "Left throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "109",
+            "Move": "Right throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "114",
+            "Move": "Tackle.2, 1, 2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "115",
+            "Move": "Tackle.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "116",
+            "Move": "d+1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "111",
+            "Move": "uf+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "117",
+            "Move": "uf+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "118",
+            "Move": "LIB.P (High)",
+            "Selectable": "*"
+        },
+        {
+            "ID": "119",
+            "Move": "LIB.P (Low)",
+            "Selectable": "*"
+        },
+        {
+            "ID": "120",
+            "Move": "H.LIB.P (High)",
+            "Selectable": "*"
+        },
+        {
+            "ID": "121",
+            "Move": "H.LIB.P (Low)",
+            "Selectable": "*"
+        },
+        {
+            "ID": "122",
+            "Move": "Low parry",
+            "Selectable": "*"
+        }
+    ],
+    "Bryan": [
+        {
+            "ID": "1",
+            "Move": "Heat System 1",
+            "Selectable": "No"
+        },
+        {
+            "ID": "2",
+            "Move": "Heat System 2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "3",
+            "Move": "Heat System 3",
+            "Selectable": "No"
+        },
+        {
+            "ID": "4",
+            "Move": "Heat System 4",
+            "Selectable": "No"
+        },
+        {
+            "ID": "5",
+            "Move": "2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "6",
+            "Move": "1, 2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "7",
+            "Move": "db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "8",
+            "Move": "f, F+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "9",
+            "Move": "SS.2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "10",
+            "Move": "SLS.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "11",
+            "Move": "H.2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "12",
+            "Move": "R.df+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "13",
+            "Move": "1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "14",
+            "Move": "1, 2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "15",
+            "Move": "1, 2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "16",
+            "Move": "1, 2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "17",
+            "Move": "1, 4, 2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "19",
+            "Move": "1, 4, 2, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "18",
+            "Move": "1, 4, 2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "20",
+            "Move": "1, 4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "21",
+            "Move": "1, 4, 3, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "75",
+            "Move": "1+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "22",
+            "Move": "2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "23",
+            "Move": "3, 2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "24",
+            "Move": "3, 2, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "25",
+            "Move": "3, 3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "26",
+            "Move": "3, 3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "27",
+            "Move": "4, 3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "28",
+            "Move": "4, 3, f+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "29",
+            "Move": "1+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "30",
+            "Move": "1+2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "31",
+            "Move": "3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "32",
+            "Move": "f+2, 1, 4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "33",
+            "Move": "f+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "34",
+            "Move": "f+4, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "35",
+            "Move": "f+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "37",
+            "Move": "DF+1, 1, 1, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "36",
+            "Move": "DF+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "38",
+            "Move": "df+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "39",
+            "Move": "df+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "40",
+            "Move": "df+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "41",
+            "Move": "df+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "42",
+            "Move": "d+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "43",
+            "Move": "d+3, 2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "44",
+            "Move": "d+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "45",
+            "Move": "d+1+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "46",
+            "Move": "d+1+2~2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "47",
+            "Move": "d+3+4, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "48",
+            "Move": "db+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "49",
+            "Move": "db+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "50",
+            "Move": "db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "51",
+            "Move": "b+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "110",
+            "Move": "b+1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "111",
+            "Move": "b+1+3, P.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "52",
+            "Move": "b+2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "53",
+            "Move": "b+2, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "54",
+            "Move": "b+2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "55",
+            "Move": "b+3, 2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "56",
+            "Move": "b+3, 2, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "74",
+            "Move": "b+3, 4, 1, 2, 1, 4, 2, 1, 4, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "57",
+            "Move": "b+3, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "58",
+            "Move": "b+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "59",
+            "Move": "b+1+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "60",
+            "Move": "b+1+4*",
+            "Selectable": "*"
+        },
+        {
+            "ID": "61",
+            "Move": "ub+1+2, 1, 2, 1, 2, 1, 2, 1, 2, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "63",
+            "Move": "uf+2, 2, 2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "62",
+            "Move": "uf+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "64",
+            "Move": "uf+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "65",
+            "Move": "uf+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "76",
+            "Move": "1+2+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "72",
+            "Move": "b, B+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "71",
+            "Move": "b, df+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "67",
+            "Move": "f, F+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "68",
+            "Move": "f, F+3, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "69",
+            "Move": "f, F+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "70",
+            "Move": "f, n, b+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "98",
+            "Move": "qcb",
+            "Selectable": "*"
+        },
+        {
+            "ID": "91",
+            "Move": "qcf",
+            "Selectable": "*"
+        },
+        {
+            "ID": "66",
+            "Move": "uf, n, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "73",
+            "Move": "f, f, F+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "77",
+            "Move": "ws1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "78",
+            "Move": "ws2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "79",
+            "Move": "ws3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "80",
+            "Move": "ws3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "81",
+            "Move": "ws4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "84",
+            "Move": "SS.1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "85",
+            "Move": "SS.2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "82",
+            "Move": "FC.df+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "83",
+            "Move": "FC.df+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "92",
+            "Move": "SLS.2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "93",
+            "Move": "SLS.2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "94",
+            "Move": "SLS.2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "95",
+            "Move": "SLS.4, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "96",
+            "Move": "SLS.4, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "97",
+            "Move": "SLS.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "90",
+            "Move": "SNE.f, F+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "86",
+            "Move": "SNE.3+4, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "87",
+            "Move": "SNE.3+4, 2*",
+            "Selectable": "*"
+        },
+        {
+            "ID": "88",
+            "Move": "SNE, f+2, 1, 2, 3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "89",
+            "Move": "SNE.uf+2, 2, 2, 2, 2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "99",
+            "Move": "qcb+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "100",
+            "Move": "qcb+2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "101",
+            "Move": "qcb+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "102",
+            "Move": "qcb+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "103",
+            "Move": "1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "104",
+            "Move": "2+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "107",
+            "Move": "Back throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "109",
+            "Move": "FC.db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "105",
+            "Move": "Left throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "106",
+            "Move": "Right throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "108",
+            "Move": "uf+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "112",
+            "Move": "SNE.f, F+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "113",
+            "Move": "Low parry",
+            "Selectable": "*"
+        }
+    ],
+    "Claudio": [
+        {
+            "ID": "1",
+            "Move": "Heat System 1",
+            "Selectable": "No"
+        },
+        {
+            "ID": "2",
+            "Move": "Heat System 2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "3",
+            "Move": "Heat System 3",
+            "Selectable": "No"
+        },
+        {
+            "ID": "4",
+            "Move": "Heat System 4",
+            "Selectable": "No"
+        },
+        {
+            "ID": "5",
+            "Move": "2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "6",
+            "Move": "2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "7",
+            "Move": "3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "8",
+            "Move": "b+4, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "9",
+            "Move": "uf+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "10",
+            "Move": "f, f, F+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "11",
+            "Move": "H.2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "12",
+            "Move": "R.df+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "13",
+            "Move": "1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "14",
+            "Move": "1, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "15",
+            "Move": "2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "16",
+            "Move": "3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "17",
+            "Move": "4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "18",
+            "Move": "1+2, 1+2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "19",
+            "Move": "3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "20",
+            "Move": "f+2, 1, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "21",
+            "Move": "f+2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "22",
+            "Move": "f+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "23",
+            "Move": "f+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "24",
+            "Move": "f+1+2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "25",
+            "Move": "f+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "26",
+            "Move": "df+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "27",
+            "Move": "df+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "28",
+            "Move": "df+3, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "29",
+            "Move": "df+3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "30",
+            "Move": "d+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "31",
+            "Move": "d+2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "32",
+            "Move": "d+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "33",
+            "Move": "db+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "34",
+            "Move": "db+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "35",
+            "Move": "db+4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "36",
+            "Move": "db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "37",
+            "Move": "b+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "38",
+            "Move": "b+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "39",
+            "Move": "b+3, n, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "40",
+            "Move": "b+4, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "41",
+            "Move": "b+4, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "42",
+            "Move": "b+4, 3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "43",
+            "Move": "b+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "44",
+            "Move": "b+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "46",
+            "Move": "b+2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "45",
+            "Move": "b+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "47",
+            "Move": "uf+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "48",
+            "Move": "uf+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "49",
+            "Move": "uf+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "50",
+            "Move": "uf+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "57",
+            "Move": "1+2+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "52",
+            "Move": "f, F+2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "53",
+            "Move": "f, F+2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "54",
+            "Move": "f, F+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "51",
+            "Move": "uf, n, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "55",
+            "Move": "f, f, F+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "56",
+            "Move": "2, 1, 3, 1, 4, 3, 2, 4, 3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "58",
+            "Move": "ws1, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "59",
+            "Move": "ws1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "60",
+            "Move": "ws2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "61",
+            "Move": "ws3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "62",
+            "Move": "ws4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "63",
+            "Move": "SS.4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "64",
+            "Move": "STB.4, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "65",
+            "Move": "STB.f+1+2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "66",
+            "Move": "STB.d+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "67",
+            "Move": "STB.db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "68",
+            "Move": "STB.b+4, 3, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "69",
+            "Move": "STB.f, f, F+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "70",
+            "Move": "STB.ws1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "71",
+            "Move": "1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "72",
+            "Move": "2+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "75",
+            "Move": "Back throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "73",
+            "Move": "Left throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "74",
+            "Move": "Right throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "76",
+            "Move": "uf+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "77",
+            "Move": "Low parry",
+            "Selectable": "*"
+        }
+    ],
+    "Devil Jin": [
+        {
+            "ID": "1",
+            "Move": "Heat System 1",
+            "Selectable": "No"
+        },
+        {
+            "ID": "2",
+            "Move": "Heat System 2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "3",
+            "Move": "Heat System 3",
+            "Selectable": "No"
+        },
+        {
+            "ID": "4",
+            "Move": "Heat System 4",
+            "Selectable": "No"
+        },
+        {
+            "ID": "5",
+            "Move": "Heat System 5",
+            "Selectable": "No"
+        },
+        {
+            "ID": "6",
+            "Move": "2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "7",
+            "Move": "b+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "8",
+            "Move": "b+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "9",
+            "Move": "uf+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "10",
+            "Move": "f, F+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "11",
+            "Move": "MCR.2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "12",
+            "Move": "H.3~4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "13",
+            "Move": "H.uf+3+4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "14",
+            "Move": "H.bf+2, 1, 4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "15",
+            "Move": "H.f, n, f, df+1+2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "17",
+            "Move": "H.MCR.2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "16",
+            "Move": "H.2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "18",
+            "Move": "R.df+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "19",
+            "Move": "1, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "20",
+            "Move": "1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "21",
+            "Move": "1, 2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "22",
+            "Move": "1, 2, 3, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "23",
+            "Move": "1, 2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "24",
+            "Move": "2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "25",
+            "Move": "3, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "26",
+            "Move": "3, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "27",
+            "Move": "3, 1, f, F",
+            "Selectable": "*"
+        },
+        {
+            "ID": "28",
+            "Move": "4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "29",
+            "Move": "4~3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "30",
+            "Move": "1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "32",
+            "Move": "1+4, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "31",
+            "Move": "3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "33",
+            "Move": "f+2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "34",
+            "Move": "f+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "35",
+            "Move": "f+4, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "36",
+            "Move": "df+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "37",
+            "Move": "df+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "38",
+            "Move": "df+3, 2, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "39",
+            "Move": "df+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "40",
+            "Move": "d+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "41",
+            "Move": "d+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "42",
+            "Move": "d+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "43",
+            "Move": "db+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "44",
+            "Move": "db+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "45",
+            "Move": "db+1+2*",
+            "Selectable": "*"
+        },
+        {
+            "ID": "46",
+            "Move": "b+1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "110",
+            "Move": "b+1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "47",
+            "Move": "b+2, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "48",
+            "Move": "b+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "49",
+            "Move": "b+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "50",
+            "Move": "b+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "51",
+            "Move": "b+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "52",
+            "Move": "b+1+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "53",
+            "Move": "ub+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "54",
+            "Move": "u+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "55",
+            "Move": "u+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "56",
+            "Move": "uf+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "57",
+            "Move": "uf+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "58",
+            "Move": "uf+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "59",
+            "Move": "uf+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "60",
+            "Move": "uf+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "70",
+            "Move": "1+2+3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "63",
+            "Move": "b, f+2, 1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "65",
+            "Move": "b, f+2, 1, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "64",
+            "Move": "b, f+2, 1, df+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "66",
+            "Move": "b, f+2, 3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "67",
+            "Move": "b, f+1+2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "61",
+            "Move": "f, F+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "62",
+            "Move": "f, F+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "85",
+            "Move": "f, n, d, DF+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "86",
+            "Move": "f, n, d, DF+4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "87",
+            "Move": "f, n, d, DF+4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "79",
+            "Move": "f, n, d, df",
+            "Selectable": "*"
+        },
+        {
+            "ID": "83",
+            "Move": "f, n, d, df:2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "80",
+            "Move": "f, n, d, df+1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "81",
+            "Move": "f, n, d, df+1, UF",
+            "Selectable": "*"
+        },
+        {
+            "ID": "82",
+            "Move": "f, n, d, df+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "84",
+            "Move": "f, n, d, df+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "88",
+            "Move": "f, n, d, df+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "68",
+            "Move": "f, f, F+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "69",
+            "Move": "f+2, 4, 3, 1+4, 1, 2, 1, 4, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "71",
+            "Move": "ws1, 1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "72",
+            "Move": "ws1, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "73",
+            "Move": "ws2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "74",
+            "Move": "ws3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "75",
+            "Move": "ws4, 4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "76",
+            "Move": "SS.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "77",
+            "Move": "SS.2, U",
+            "Selectable": "*"
+        },
+        {
+            "ID": "78",
+            "Move": "FUFT.u+3+4",
+            "Selectable": "No"
+        },
+        {
+            "ID": "89",
+            "Move": "3+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "90",
+            "Move": "FLY.1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "91",
+            "Move": "FLY.2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "92",
+            "Move": "FLY.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "93",
+            "Move": "FLY.4, 2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "94",
+            "Move": "FLY.1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "95",
+            "Move": "FLY.f+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "96",
+            "Move": "f+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "97",
+            "Move": "MCR.1",
+            "Selectable": "*"
+        },
+        {
+            "ID": "98",
+            "Move": "MCR.2, 2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "99",
+            "Move": "MCR.3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "100",
+            "Move": "MCR.4, 2, 1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "112",
+            "Move": "OTG.d+1+2",
+            "Selectable": "No"
+        },
+        {
+            "ID": "101",
+            "Move": "1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "102",
+            "Move": "2+4",
+            "Selectable": "*"
+        },
+        {
+            "ID": "105",
+            "Move": "Back Throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "103",
+            "Move": "Left Throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "104",
+            "Move": "Right Throw",
+            "Selectable": "No"
+        },
+        {
+            "ID": "106",
+            "Move": "df+2+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "109",
+            "Move": "f, hcf+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "108",
+            "Move": "qcb+1+3",
+            "Selectable": "*"
+        },
+        {
+            "ID": "107",
+            "Move": "uf+1+2",
+            "Selectable": "*"
+        },
+        {
+            "ID": "111",
+            "Move": "Low parry",
+            "Selectable": "*"
+        }
+    ]
+}
